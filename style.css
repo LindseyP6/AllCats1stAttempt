@@ -1,0 +1,23 @@
+body {
+    background-image: url("./images/background3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    float: right;
+    font-family: 'Gill Sans', Arial, Helvetica, sans-serif;
+    }
+
+    
+    a:link {
+        color: ;
+      }
+      
+      a:visited {
+        color: ;
+      }
+      
+      a:hover {
+        color: ;
+      }
+    
